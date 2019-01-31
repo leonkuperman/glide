@@ -1,6 +1,7 @@
 # Glide: Vendor Package Management for Golang
 
 ![glide logo](https://glide.sh/assets/logo-small.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fglide.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fglide?ref=badge_shield)
 
 Are you used to tools such as Cargo, npm, Composer, Nuget, Pip, Maven, Bundler,
 or other modern package managers? If so, Glide is the comparable Go tool.
@@ -459,6 +460,9 @@ The package will not be fetched for other architectures or OSes.
 
 This package is made available under an MIT-style license. See
 LICENSE.txt.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fglide.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fglide?ref=badge_large)
 
 ## Thanks!
 
